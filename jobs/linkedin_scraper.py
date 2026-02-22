@@ -2,7 +2,6 @@ import time
 import numpy as np
 import pandas as pd
 import streamlit as st
-from streamlit_extras.add_vertical_space import add_vertical_space
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
@@ -25,7 +24,7 @@ class LinkedInScraper:
     @staticmethod
     def get_user_input(show_title=True):
         """Get user input for job search parameters"""
-        add_vertical_space(1)
+        st.write(1)
         
         # Apply custom styling for the form
         if show_title:
@@ -84,13 +83,13 @@ class LinkedInScraper:
                 )
 
             # Submit Button
-            add_vertical_space(1)
+            st.write(1)
             submit = st.form_submit_button(
                 label='Search LinkedIn Jobs',
                 type='primary',
                 use_container_width=True
             )
-            add_vertical_space(1)
+            st.write(1)
         
         if show_title:
             st.markdown('</div>', unsafe_allow_html=True)

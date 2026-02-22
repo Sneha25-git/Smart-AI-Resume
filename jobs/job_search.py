@@ -12,7 +12,6 @@ from .suggestions import (
 )
 from .companies import get_featured_companies, get_market_insights
 from .linkedin_scraper import render_linkedin_scraper
-from streamlit_extras.add_vertical_space import add_vertical_space
 from streamlit_option_menu import option_menu
 
 def filter_suggestions(query: str, suggestions: List[Dict]) -> List[Dict]:
