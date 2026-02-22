@@ -1,6 +1,6 @@
 # 🌟 Contributing to Smart Resume Analyzer AI
 
-Thank you for your interest in contributing to **Smart Resume Analyzer AI**! This project aims to revolutionize how resumes are analyzed using advanced AI techniques. Let's make it even better together!
+Thank you for your interest in contributing to **Smart AI Resume Analyzer**! This project aims to revolutionize how resumes are analyzed using advanced AI techniques. Let's make it even better together!
 
 
 
@@ -8,9 +8,9 @@ Thank you for your interest in contributing to **Smart Resume Analyzer AI**! Thi
 
 <!--![Smart Resume Analyzer AI](https://via.placeholder.com/300x150?text=Smart+Resume+Analyzer+AI)-->
 
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer)
-[![Made With Python](https://img.shields.io/badge/Made%20With-Python-blue?style=flat-square&logo=python)](https://github.com/Hunterdii/)
-[![Fork and Star](https://img.shields.io/badge/💜-Fork%20&%20Star%20this%20repo-blueviolet?style=flat-square)](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=flat-square)](https://github.com/Sneha25-git/Smart-AI-Resume.git)
+[![Made With Python](https://img.shields.io/badge/Made%20With-Python-blue?style=flat-square&logo=python)](https://github.com/Sneha25-git/Smart-AI-Resume.git)
+[![Fork and Star](https://img.shields.io/badge/💜-Fork%20&%20Star%20this%20repo-blueviolet?style=flat-square)](https://github.com/Sneha25-git/Smart-AI-Resume.git)
 
 </div>
 
@@ -18,7 +18,7 @@ Thank you for your interest in contributing to **Smart Resume Analyzer AI**! Thi
 
 ## 🛠️ Getting Started
 
-We’re thrilled to have you on board! Here’s how you can get started contributing to **Smart Resume Analyzer AI**:
+We’re thrilled to have you on board! Here’s how you can get started contributing to **Smart AI Resume Analyzer**:
 
 ### 1. **Fork the Repository**
 
@@ -27,7 +27,7 @@ Click the `Fork` button at the top right corner of this page to create a copy of
 ### 2. **Clone Your Fork**
 
 ```bash
-git clone https://github.com/Hunterdii/Smart-AI-Resume-Analyzer.git
+git clone https://github.com/Sneha25-git/Smart-AI-Resume.git
 ```
 
 ### 3. **Navigate to the Directory**
@@ -84,7 +84,7 @@ Updating documentation is essential! Ensure new features or major updates are re
 
 ### Need Help with Documentation?
 
-Check out [this section](./#-contributing) or ask in [community discussions](https://github.com/Hunterdii/Smart-AI-Resume-Analyzer/discussions).
+Check out [this section](./#-contributing) or ask in [community discussions](https://github.com/Sneha25-git/Smart-AI-Resume.git).
 
 
 
