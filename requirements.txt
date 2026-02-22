@@ -16,6 +16,7 @@ pypdf
 requests
 beautifulsoup4
 pdf2image
+pytesseract
 
 # AI / ML / Generative APIs
 google-generativeai
