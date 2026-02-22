@@ -1,4 +1,12 @@
+# Core
 streamlit
+
+# UI / Visuals
+streamlit-option-menu
+streamlit-lottie
+plotly
+
+# Data handling
 pandas
 numpy
 scikit-learn
@@ -6,8 +14,10 @@ pdfplumber
 python-docx
 requests
 beautifulsoup4
+
+# AI / ML / Generative APIs
 google-generativeai
-plotly
-streamlit-option-menu
+
+# Web scraping / Selenium
 selenium
 webdriver-manager
