@@ -118,7 +118,7 @@ Follow the steps below to set up and run the **Smart AI Resume Analyzer** on you
 Open a terminal and run:
 
    ```bash
-   git clone https://github.com/Hunterdii/resume-analyzer-ai.git
+   git clone https://github.com/Sneha25-git/Smart-AI-Resume.git
    cd Smart-AI-Resume-Analyzer
    ```
 
