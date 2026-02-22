@@ -1394,11 +1394,11 @@ class ResumeApp:
                                 'missing_skills': ','.join(analysis['keyword_match']['missing_skills']),
                                 'recommendations': ','.join(analysis['suggestions'])
                             }
-                           # save_analysis_data(resume_id, analysis_data)
-                           # st.success("Resume data saved successfully!")
-                       # except Exception as e:
-                        #    st.error(f"Error saving to database: {str(e)}")
-                         #   print(f"Database error: {e}")
+                            save_analysis_data(resume_id, analysis_data)
+                          
+                        except Exception as e:
+                           st.error(f"Error saving to database: {str(e)}")
+                           print(f"Database error: {e}")
 
                         # Show results based on document type
                         if analysis.get('document_type') != 'resume':
