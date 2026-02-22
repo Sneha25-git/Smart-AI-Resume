@@ -7,6 +7,7 @@ python-docx
 requests
 beautifulsoup4
 google-generativeai
-selenium
-streamlit-option-menu
 plotly
+streamlit-option-menu
+selenium
+webdriver-manager
