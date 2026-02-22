@@ -22,3 +22,4 @@ google-generativeai
 # Web scraping / Selenium
 selenium
 webdriver-manager
+sqlalchemy
